@@ -1,0 +1,9 @@
+PHP stands for HyperText Preprocessor. PHP scripts are executed in the Server. PHP files have an extension ".php". 
+We can install the php file from the official website of php where documentation can be easily accessed. After installing, 
+the next of the step is to ensure whether the php is properly installed or not by inputing php --version in the command 
+prompt of your respective device. Once, the php is properly installed all it remains is there to execute a php program 
+in any of IDEs. One of the most popular IDEs out there is Visual Studio Code where we should create a folder containing 
+PHP program. And under the folder create and write your PHP programs and to start or make it work start the server by 
+typing php -S localhost:8000 which will initialize the PHP developmental server and once the server gets working, go to 
+the web browser you using and type in http://localhost:8000/ and the file name containing the PHP program afterwards.
+This way PHP program works in your device. Now we learn more about PHP by doing assignment of the college lecturers. 
